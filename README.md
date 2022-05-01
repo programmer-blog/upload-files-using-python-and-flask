@@ -25,4 +25,4 @@ Following steps are performed in this tutorial:
 5. Update python script to upload multiples file
 
 
-Detailed tutorial URL: 
+Detailed tutorial URL: https://programmerblog.net/upload-files-using-python-and-flask/
